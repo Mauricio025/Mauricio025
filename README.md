@@ -1,65 +1,68 @@
-<h1 align="center">Hola 👋, soy Mauricio</h1>
-<h3 align="center">Técnico en Sistemas y estudiante de 8.º semestre de Ingeniería de Sistemas en la Fundación Universitaria Juan de Castellanos</h3>
-
-<br>
+<h1 align="center">👋 Hola, soy Mauricio Páez</h1>
+<h3 align="center">💻 Técnico en Sistemas | 🎓 Estudiante de Ingeniería de Sistemas (8.º semestre)</h3>
+<h4 align="center">📍 Fundación Universitaria Juan de Castellanos</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mauricio-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-dev" />
 </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mauricio" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mauricio" width="300"/></p>
 
-- 🎓 Actualmente finalizando mis estudios universitarios con enfoque en backend
+## 🚀 Sobre mí
 
-- 🚀 Proyectos académicos:
-  - Sistema de reservas de vuelos con RMI ✈️
-  - Sistema de gestión bibliotecaria 📚
-  - Sistemas de Incidentes
-  - Sistema de gestión de titulaciones (en desarrollo) 🎓
+- 🔭 **Enfoque actual:** Desarrollo Backend con Java/Spring Boot
+- 🌱 **Aprendiendo:** Arquitecturas de software y buenas prácticas
+- 🎯 **Objetivo:** Contribuir a proyectos desafiantes y seguir creciendo profesionalmente
+- 📫 **Contacto:** mauriciopaez520@gmail.com
 
-- 🧠 Habilidades en Java, Spring Boot, MySQL, PostgreSQL.
+## 🎓 Proyectos Académicos Destacados
 
-- 📫 Contáctame: **mauriciopaez520@gmail.com**
+| Proyecto                          | Tecnologías               | Estado      |
+|-----------------------------------|---------------------------|-------------|
+| Sistema de reservas de vuelos ✈️  | Java, RMI                 | Completo    |
+| Gestión bibliotecaria 📚          | Java, MySQL               | Completo    |
+| Sistema de Incidentes             | Java Spring               | Completo    |
+| Gestión de titulaciones 🎓        | Spring Boot, PostgreSQL   | En desarrollo |
 
+## 🛠 Stack Tecnológico
 
-<br>
+**Lenguajes y Frameworks:**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+</p>
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
- 
+**Bases de Datos:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## 📈 Estadísticas GitHub
+
+<div align="center">
   
-  <a href="https://github.com/Mauricio025" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
-  </a>
-</p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio025&layout=compact&theme=dark&hide_border=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mauricio025&show_icons=true&theme=dark&hide_border=true)
+  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mauricio025&theme=dark&background=0d1117&hide_border=true)
+</div>
 
-<br>
+## 🤝 Conectemos
 
-<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
-
-<br>
-
-<h3>📊 Estadísticas de GitHub</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mauricio025&show_icons=true&locale=es&layout=compact&theme=dark" />
-</p>
-
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauricio025&show_icons=true&locale=es&theme=dark" />
-</p>
-
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mauricio025&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
+  <a href="https://github.com/Mauricio025" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mauriciopaez520@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
