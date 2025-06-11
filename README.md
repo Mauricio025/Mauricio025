@@ -8,8 +8,7 @@
 </p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mauricio" /></p>
-
--  Actualmente finalizando mis estudios universitarios con enfoque en backend
+Actualmente finalizando mis estudios universitarios con enfoque en backend
 
 -  Proyectos académicos:
   - Sistema de reservas de vuelos con RMI 
