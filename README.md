@@ -19,7 +19,7 @@
 
 - 🧠 Habilidades en Java, Spring Boot, MySQL, PostgreSQL.
 
-- 📫 Contáctame: **[mauriciopaez520@gmail.com]**
+- 📫 Contáctame: **mauriciopaez520@gmail.com**
 
 
 <br>
@@ -27,9 +27,7 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
  
-  <a href="https://instagram.com/mauriciorivera_25" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
+  
   <a href="https://github.com/Mauricio025" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
