@@ -9,17 +9,17 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mauricio" /></p>
 
-- 🎓 Actualmente finalizando mis estudios universitarios con enfoque en backend
+-  Actualmente finalizando mis estudios universitarios con enfoque en backend
 
-- 🚀 Proyectos académicos:
-  - Sistema de reservas de vuelos con RMI ✈️
-  - Sistema de gestión bibliotecaria 📚
+-  Proyectos académicos:
+  - Sistema de reservas de vuelos con RMI 
+  - Sistema de gestión bibliotecaria
   - Sistemas de Incidentes
-  - Sistema de gestión de titulaciones (en desarrollo) 🎓
+  - Sistema de gestión de titulaciones (en desarrollo) 
 
-- 🧠 Habilidades en Java, Spring Boot, MySQL, PostgreSQL.
+-  Habilidades en Java, Spring Boot, MySQL, PostgreSQL.
 
-- 📫 Contáctame: **mauriciopaez520@gmail.com**
+-  Contáctame: **mauriciopaez520@gmail.com**
 
 
 <br>
@@ -66,8 +66,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mauricio025&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-## 🤝 Conectemos
-
+🤝 Conectemos
 <p align="left">
   <a href="https://github.com/Mauricio025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
