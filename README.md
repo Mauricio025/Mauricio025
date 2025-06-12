@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mauricio025&label=Profile%20views&color=0e75b6&style=flat" alt="Mauricio025" />
 </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mauricio" /></p>
+<p><img align="right" src="https://github.com/Mauricio025/Mauricio025/blob/main/img.png" alt="mauricio" /></p>
 
 Actualmente finalizando mis estudios universitarios con enfoque en backend
 
