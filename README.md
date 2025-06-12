@@ -8,51 +8,63 @@
 </p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mauricio" /></p>
+
 Actualmente finalizando mis estudios universitarios con enfoque en backend
 
--  Proyectos académicos:
-  - 🛬 Sistema de reservas de vuelos con RMI
-   <p>  Aplicación distribuida desarrollada en Java utilizando RMI (Remote Method Invocation). Permite a los usuarios consultar disponibilidad, reservar vuelos, y gestionar itinerarios de manera remota. Este     proyecto simula un sistema de aerolínea donde múltiples clientes acceden simultáneamente a los servicios de reserva en tiempo real.
-</p>
-🔧 Tecnologías: Java SE, RMI, MVC, Colecciones, Serialización
-  - Sistema de gestión bibliotecaria
-  - Sistemas de Incidentes
-  - Sistema de gestión de titulaciones (en desarrollo) 
+## 🚀 Proyectos Académicos
 
--  Habilidades en Java, Spring Boot, MySQL, PostgreSQL.
+### 🛬 Sistema de reservas de vuelos con RMI
+Aplicación distribuida desarrollada en Java utilizando RMI (Remote Method Invocation). Permite a los usuarios consultar disponibilidad, reservar vuelos, y gestionar itinerarios de manera remota. Este proyecto simula un sistema de aerolínea donde múltiples clientes acceden simultáneamente a los servicios de reserva en tiempo real.
 
--  Contáctame: **mauriciopaez520@gmail.com**
+🔧 **Tecnologías:** Java con Spring Boot, RMI, MVC, Colecciones, Serialización
 
+### 📚 Sistema de gestión bibliotecaria
+Aplicación web orientada a la administración de bibliotecas académicas. Gestiona el inventario de libros, préstamos, devoluciones, usuarios y sanciones por retrasos. Incluye control de acceso por roles (administrador y usuarios).
 
-<br>
+🔧 **Tecnologías:** Java con Spring Boot, Sp, JDBC, MySQL
+
+### 🚨 Sistema de Incidentes
+Aplicación web diseñada para registrar, categorizar y hacer seguimiento a incidentes dentro de una organización (como fallos técnicos o solicitudes de soporte). Facilita la trazabilidad de casos y mejora la atención de requerimientos internos.
+
+🔧 **Tecnologías:** Java, Spring Boot, Thymeleaf, JPA, Bootstrap.
+
+### 🎓 Sistema de gestión de titulaciones (en desarrollo)
+Plataforma web desarrollada como proyecto de grado para la Fundación Universitaria Juan de Castellanos. Su objetivo es automatizar y organizar el proceso académico de titulación, abarcando desde el registro de anteproyectos hasta la generación de actas finales.
+
+El sistema permite a los coordinadores académicos, estudiantes y docentes interactuar en distintas fases del proceso, facilitando la trazabilidad, asignación de jurados, programación de sustentaciones y seguimiento completo hasta la titulación.
+
+🔧 **Tecnologías:** Java, Spring Boot, JPA/Hibernate, PostgreSQL.
+
+## 📫 Contáctame
+**Email:** mauriciopaez520@gmail.com
 
 <br>
 
 ## 🛠 Stack Tecnológico
 
-**Lenguajes y Frameworks:**
+### **Lenguajes y Frameworks:**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 </p>
 
-**Bases de Datos:**
+### **Bases de Datos:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**Frontend:**
+### **Frontend:**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-
 <br>
 
-<h3>📊 Estadísticas de GitHub</h3>
+## 📊 Estadísticas de GitHub
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mauricio025&show_icons=true&locale=es&layout=compact&theme=dark" />
 </p>
@@ -68,7 +80,8 @@ Actualmente finalizando mis estudios universitarios con enfoque en backend
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mauricio025&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-🤝 Conectemos
+
+## 🤝 Conectemos
 <p align="left">
   <a href="https://github.com/Mauricio025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
