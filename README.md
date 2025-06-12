@@ -11,7 +11,10 @@
 Actualmente finalizando mis estudios universitarios con enfoque en backend
 
 -  Proyectos académicos:
-  - Sistema de reservas de vuelos con RMI 
+  - 🛬 Sistema de reservas de vuelos con RMI
+   <p>  Aplicación distribuida desarrollada en Java utilizando RMI (Remote Method Invocation). Permite a los usuarios consultar disponibilidad, reservar vuelos, y gestionar itinerarios de manera remota. Este     proyecto simula un sistema de aerolínea donde múltiples clientes acceden simultáneamente a los servicios de reserva en tiempo real.
+</p>
+🔧 Tecnologías: Java SE, RMI, MVC, Colecciones, Serialización
   - Sistema de gestión bibliotecaria
   - Sistemas de Incidentes
   - Sistema de gestión de titulaciones (en desarrollo) 
