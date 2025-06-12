@@ -29,9 +29,8 @@ Aplicación web diseñada para registrar, categorizar y hacer seguimiento a inci
 🔧 **Tecnologías:** Java, Spring Boot, Thymeleaf, JPA, Bootstrap.
 
 ### 🎓 Sistema de gestión de titulaciones (en desarrollo)
-Plataforma web desarrollada como proyecto de grado para la Fundación Universitaria Juan de Castellanos. Su objetivo es automatizar y organizar el proceso académico de titulación, abarcando desde el registro de anteproyectos hasta la generación de actas finales.
-
-El sistema permite a los coordinadores académicos, estudiantes y docentes interactuar en distintas fases del proceso, facilitando la trazabilidad, asignación de jurados, programación de sustentaciones y seguimiento completo hasta la titulación.
+Plataforma web desarrollada como proyecto de grado para la Fundación Universitaria Juan de Castellanos. Su objetivo es automatizar y organizar el proceso académico de titulación, abarcando desde el registro de anteproyectos hasta la generación de actas finales. Este sistema busca mejorar la eficiencia, trazabilidad y transparencia del proceso institucional.
+Está diseñado con una arquitectura modular y escalable, con la intención de ser implementado progresivamente en otras facultades de la institución, adaptándose a las necesidades de cada una.
 
 🔧 **Tecnologías:** Java, Spring Boot, JPA/Hibernate, PostgreSQL.
 
