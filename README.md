@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Mauricio Rivera</h1>
-<h3 align="center">💻 Técnico en Sistemas | 🎓 Estudiante de Ingeniería de Sistemas (8.º semestre)</h3>
-<h4 align="center">📍 Fundación Universitaria Juan de Castellanos</h4>
+<h3 align="center">💻 Ingeniero de Sistemas | 🤖 Interesado en Machine Learning y Desarrollo Backend</h3>
+<h4 align="center">🎓 Fundación Universitaria Juan de Castellanos (Tunja) | Técnico SENA</h4>
 <br>
 
 <p align="center">
@@ -9,30 +9,34 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mauricio" /></p>
 
-Actualmente finalizando mis estudios universitarios con enfoque en backend
+Ingeniero de Sistemas recién egresado, en búsqueda activa de oportunidades en desarrollo de software, datos e IA. Me apasiona construir soluciones backend robustas y explorar aplicaciones prácticas de machine learning.
 
 ## 🚀 Proyectos
 
+### 🎓 GradPoint — Sistema de gestión de titulaciones
+Plataforma web desarrollada como proyecto de grado para la Fundación Universitaria Juan de Castellanos. Automatiza y organiza el proceso académico de titulación, desde el registro de anteproyectos hasta la generación de actas finales. Diseñada con arquitectura modular y escalable, pensada para implementarse progresivamente en otras facultades de la institución.
+
+🔧 **Tecnologías:** Java, Spring Boot, Thymeleaf, JPA/Hibernate, PostgreSQL/MySQL, arquitectura MVC
+
+### 🎮 Sistema de recomendación de videojuegos
+Proyecto colaborativo que implementa un motor de recomendación de videojuegos utilizando técnicas de machine learning, incluyendo TF-IDF, KNN y Random Forest para generar sugerencias personalizadas basadas en similitud de contenido.
+
+🔧 **Tecnologías:** Python, Scikit-learn, TF-IDF, KNN, Random Forest
+
 ### 🛬 Sistema de reservas de vuelos con RMI
-Aplicación distribuida desarrollada en Java utilizando RMI (Remote Method Invocation). Permite a los usuarios consultar disponibilidad, reservar vuelos, y gestionar itinerarios de manera remota. Este proyecto simula un sistema de aerolínea donde múltiples clientes acceden simultáneamente a los servicios de reserva en tiempo real.
+Aplicación distribuida desarrollada en Java utilizando RMI (Remote Method Invocation). Permite a los usuarios consultar disponibilidad, reservar vuelos, y gestionar itinerarios de manera remota, simulando un sistema de aerolínea con acceso concurrente en tiempo real.
 
 🔧 **Tecnologías:** Java con Spring Boot, RMI, MVC, Colecciones, Serialización
 
 ### 📚 Sistema de gestión bibliotecaria
-Aplicación web orientada a la administración de bibliotecas académicas. Gestiona el inventario de libros, préstamos, devoluciones, usuarios y sanciones por retrasos. Incluye control de acceso por roles (administrador y usuarios).
+Aplicación web orientada a la administración de bibliotecas académicas. Gestiona inventario de libros, préstamos, devoluciones, usuarios y sanciones por retrasos, con control de acceso por roles.
 
-🔧 **Tecnologías:** Java con Spring Boot, Sp, JDBC, MySQL
+🔧 **Tecnologías:** Java con Spring Boot, JDBC, MySQL
 
 ### 🚨 Sistema de Incidentes
-Aplicación web diseñada para registrar, categorizar y hacer seguimiento a incidentes dentro de una organización (como fallos técnicos o solicitudes de soporte). Facilita la trazabilidad de casos y mejora la atención de requerimientos internos.
+Aplicación web para registrar, categorizar y hacer seguimiento a incidentes dentro de una organización (fallos técnicos o solicitudes de soporte), facilitando la trazabilidad de casos.
 
-🔧 **Tecnologías:** Java, Spring Boot, Thymeleaf, JPA, Bootstrap.
-
-### 🎓 Sistema de gestión de titulaciones (en desarrollo)
-Plataforma web desarrollada como proyecto de grado para la Fundación Universitaria Juan de Castellanos. Su objetivo es automatizar y organizar el proceso académico de titulación, abarcando desde el registro de anteproyectos hasta la generación de actas finales. Este sistema busca mejorar la eficiencia, trazabilidad y transparencia del proceso institucional.
-Está diseñado con una arquitectura modular y escalable, con la intención de ser implementado progresivamente en otras facultades de la institución, adaptándose a las necesidades de cada una.
-
-🔧 **Tecnologías:** Java, Spring Boot, JPA/Hibernate, PostgreSQL.
+🔧 **Tecnologías:** Java, Spring Boot, Thymeleaf, JPA, Bootstrap
 
 ## 📫 Contáctame
 **Email:** mauriciopaez520@gmail.com
@@ -46,6 +50,12 @@ Está diseñado con una arquitectura modular y escalable, con la intención de s
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### **Machine Learning:**
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ### **Bases de Datos:**
